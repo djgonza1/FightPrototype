@@ -1,2 +1,2 @@
 # FightPrototype
-Fighting Game Prototy
+Fighting Game Prototype
